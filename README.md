@@ -1,4 +1,8 @@
-<<<<<<< HEAD
+
+# Mini-12-Key-Piano-React
+
+A piano that can be played by pressing on the computer keyboard.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
